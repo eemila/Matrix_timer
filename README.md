@@ -1,5 +1,5 @@
 # Matrix_timer
-It is my first try with canvas & training with new Date JS object
+It is my first try with canvas
 Here is app preview: .........
 
 ## Table of contents
