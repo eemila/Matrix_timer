@@ -10,7 +10,7 @@ Here is app preview: .........
 ## Technologies
 * HTML5
 * CSS3
-* JavaScript (with canvas)
+* JavaScript (with canvas and Data Object)
 
 ## Status
 _in progress_ 
