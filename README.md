@@ -1,6 +1,6 @@
 # Matrix_timer
-It is my first try with canvas
-Here is app preview: .........
+It is my first try with canvas. <br>
+Here is app preview: https://eemila.github.io/Matrix_timer/
 
 ## Table of contents
 * [Technologies](#technologies)
